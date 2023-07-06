@@ -1,4 +1,4 @@
-export const GITHUB_URL = "https://github.com/stangirard/quivr";
-export const TWITTER_URL = "https://twitter.com/quivr_brain";
-export const DISCORD_URL = "https://discord.gg/HUpRgp2HG8";
+export const GITHUB_URL = "";
+export const TWITTER_URL = "";
+export const DISCORD_URL = "";
 export const DEFAULT_BACKEND_URL = "http://localhost:5000";
